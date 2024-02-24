@@ -181,9 +181,9 @@ class MyApp extends StatelessWidget {
       academicBackground: 'Bachelor\'s in Computer Science',
     ),
     "Mathieu Blemy": GroupMember(
-      name: 'Estinvil Clivens',
+      name: 'Mathieu Blemy',
       personalInfo:
-          'Age: 23 ans \n Adresse: Clercine 22 imp cherubin \n Phone: +509 3846 0432',
+          'Age: 23 ans \n Adresse: Clercine 23 imp cherubin \n Phone: +509 3846 0434',
       academicBackground: 'Bachelor\'s in Computer Science',
     ),
   };
